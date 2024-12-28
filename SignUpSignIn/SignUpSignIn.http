@@ -1,0 +1,6 @@
+@SignUpSignIn_HostAddress = http://localhost:5051
+
+GET {{SignUpSignIn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
